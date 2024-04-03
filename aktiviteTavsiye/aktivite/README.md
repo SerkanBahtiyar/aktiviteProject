@@ -2,8 +2,9 @@
 # react ile konum belirleme ve duruma göre aktivite tavsiyesi 
 
 <p align="center">
-  <img src="https://github.com/SerkanBahtiyar/commentProject/blob/main/comments/yorumlar/src/im/s.png" alt="image1">
-
+  <img src="https://github.com/SerkanBahtiyar/aktiviteProject/blob/main/aktiviteTavsiye/aktivite/src/im/a.png" alt="image1">
+ <img src="https://github.com/SerkanBahtiyar/aktiviteProject/blob/main/aktiviteTavsiye/aktivite/src/im/b.png" alt="image1">
+   <img src="https://github.com/SerkanBahtiyar/aktiviteProject/blob/main/aktiviteTavsiye/aktivite/src/im/c.png" alt="image1">
 </p>
 
 
